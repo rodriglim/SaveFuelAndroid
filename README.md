@@ -2,7 +2,7 @@
 
 
 ## ![Sobre o Projeto](https://user-images.githubusercontent.com/109808618/209383330-0121eca4-d156-4e4c-a439-068fda57cfc4.png)
-O objetivo do aplicativo "SaveFuel", é informar ao usuário qual tipo de combustível se torna mais econômico dependendo do preço<br> e o consumo - Projeto da disciplina de Desenvolvimento Mobile
+O objetivo do aplicativo "SaveFuel", é informar ao usuário qual tipo de combustível se torna mais econômico dependendo do preço e o consumo - Projeto da disciplina de Desenvolvimento Mobile
 
 ## ![Tecnologias Usadas](https://user-images.githubusercontent.com/109808618/209384280-731f764d-f1fd-494c-8fb4-bfbd25470007.png)
 
